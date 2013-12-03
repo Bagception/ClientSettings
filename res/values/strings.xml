@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClientSettings</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="autoSearch">Taschen automatisch suchen</string>
+    <string name="autoConnect">Automatisch mit Taschen verbinden</string>
+    <string name="statusTitle">Bag Overview</string>
+    <string name="T1">Tasche 1</string>
+    <string name="connected">Y</string>
+    <string name="T2">Tasche 2</string>
+    <string name="disconnected">X</string>
+
+</resources>
